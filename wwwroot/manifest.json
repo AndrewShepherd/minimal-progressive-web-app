@@ -1,6 +1,6 @@
 {
     "short_name": "My First PWA",
-    "name": "Andrew's Progressive Web Application",
+    "name": "My First Progressive Web Application",
     "start_url": "/index.html",
     "icons": [
         {
